@@ -1,6 +1,6 @@
 # WebRTC Binaries for iOS(arm64)
 
-This repository contains the unofficial distribution of WebRTC framework binaries for iOS devices.
+This repository contains the unofficial distribution of `WebRTC` framework binaries for iOS devices.
 
 ## About
 - This framework contains the binary with bitcode enabled (7.5 mb). Supports only `arm64`.
@@ -16,19 +16,27 @@ If you wish to compile your own WebRTC binary framework, please refer to the fol
 https://webrtc.github.io/webrtc-org/native-code/ios/
 
 
-### Cocoapods
+## Cocoapods
+
 Add the following line to your `Podfile`:
-```
-pod 'webRTC-arm64'
+
+```ruby
+pod 'WebRTC-arm64'
 ```
 
 And then run 
-```
+
+```shell
 pod install
 ````
 
 ## Usage
+
 To import WebRTC to your code add the following import statement
 ```swift
 import WebRTC
 ```
+
+## License
+
+`WebRTC-arm64` is available under the MIT license. See the LICENSE file for more info.
