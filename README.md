@@ -1,13 +1,13 @@
 # WebRTC Binaries for iOS(arm64)
 
-This repository contains unofficial distribution of WebRTC framework binaries for iOS devices.
+This repository contains the unofficial distribution of WebRTC framework binaries for iOS devices.
 
 ## About
-- This framework contains binary with bitcode enabled. Supports only `arm64`.
+- This framework contains the binary with bitcode enabled (7.5 mb). Supports only `arm64`.
 - All binaries in this repository are compiled from the official WebRTC without any modifications to the sources code or to the output binaries.
 - Should enable `bitcode` across app.
 - To build own binary, follow [link](https://webrtc.github.io/webrtc-org/native-code/ios/).
-- Dynamic framework (xcframework format) which contains multiple binaries for iOS arm64 only.
+- Dynamic framework (xcframework) which contains multiple binaries for iOS arm64 only.
 
 
 ## Compile your own WebRTC Frameworks
