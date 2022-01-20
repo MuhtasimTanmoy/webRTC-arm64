@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|  
-    s.name              = 'WebRTC arm64'
+    s.name              = 'WebRTC-arm64'
     s.version           = '1.0.0'
     s.summary           = 'Unofficial distribution of webRTC arm64 only binary framework'
     s.homepage          = 'https://github.com/MuhtasimTanmoy/webRTC-arm64'
