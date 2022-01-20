@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   DESC
 
     s.author            = { 'Muhtasim Ulfat' => 'mtanmopy5086@gmail.com' }
-    s.license           = { :type => 'Apache-2.0', :file => 'LICENSE' }
+    s.license           = { :type => 'MIT', :file => 'LICENSE' }
 
     s.platform          = :ios
     s.source            = { :http => 'https://github.com/MuhtasimTanmoy/webRTC-arm64/releases/download/1.0.0/WebRTC-arm64.zip' }
