@@ -16,4 +16,4 @@ Pod::Spec.new do |s|
 
     s.ios.deployment_target = '11.0'
     s.ios.vendored_frameworks = 'WbRTC.framework'
-end  
+end
