@@ -1,3 +1,5 @@
+> ### Currently apps using this framework showing problem uploading to App Store due to usage of private API. Will be fixed shortly. Not recommended till then.
+
 # WebRTC Binaries for iOS(arm64)
 
 This repository contains the unofficial distribution of `WebRTC` framework binaries for iOS devices.
